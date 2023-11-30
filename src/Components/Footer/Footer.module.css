@@ -1,0 +1,27 @@
+.parentDiv{
+    background-color: grey;   
+}
+
+.parentDiv{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    padding: 20px;    
+}
+.parentDiv ul{
+    margin: 0px 20px;
+    padding: 0px ;
+    width: 33%;
+}
+.parentDiv ul{
+}
+.parentDiv ul li{
+    margin: 10px 0px;
+    list-style-type: none;
+}
+
+.parentDiv ul li:hover{
+    cursor: pointer;
+    color: blanchedalmond
+}

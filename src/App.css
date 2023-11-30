@@ -1,11 +1,16 @@
 .App {
   text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+/* .vertical-timeline-element-content{
+  padding: 0px !important;
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -26,6 +31,12 @@
 
 .App-link {
   color: #61dafb;
+}
+.hoverThing>div:hover{
+  box-shadow: -1px 5px 11px 0px rgba(0,0,0,0.52);
+  padding: 30px;
+  cursor: pointer;
+  transition: 0.1s all ease-in-out;
 }
 
 @keyframes App-logo-spin {

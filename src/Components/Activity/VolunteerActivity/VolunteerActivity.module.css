@@ -1,0 +1,12 @@
+.ParentDiv{
+    padding: 5px;
+    transition: 0.2s all ease-in-out;
+    max-width: 500px;
+    background-color: grey;
+    margin: 10px;
+    border-radius: 7px;
+}
+.ParentDiv img{
+    max-height: 50px;
+    cursor: pointer;
+}

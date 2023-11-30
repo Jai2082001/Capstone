@@ -1,0 +1,31 @@
+.parent img{
+    max-width: 400px;
+}
+.parent{
+    margin: 20px;
+    background-color: lightgrey;
+    text-align: center;
+}
+.imgDiv{
+    margin: 10px 0px;
+}
+.parent button{
+    margin: 20px 0px;
+}
+.parentDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent button{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    transition: 0.2s all ease-in-out;
+}
+.parent button:hover{
+    background-color: black;
+    color: white;
+
+}

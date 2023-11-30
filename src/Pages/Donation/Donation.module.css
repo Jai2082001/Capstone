@@ -1,0 +1,10 @@
+.parentDiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}
+.parentDiv h1{
+    font-size: 18px;
+}

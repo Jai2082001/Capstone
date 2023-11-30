@@ -1,0 +1,15 @@
+.parentDiv{
+    padding: 20px;
+}
+/* .parentDiv img{
+    max-width: 800px;
+} */
+.imgDiv img{
+    width: 100%;
+}
+
+.parentDiv p{
+    margin: 10px 0px;
+    font-size: 15px;
+    line-height: 1.5;
+}

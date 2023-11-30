@@ -1,0 +1,30 @@
+.loginDiv{
+    display: flex;
+    justify-content: center;
+    padding: 90px 0px
+}
+.imgContainer{
+    width: 40%;
+}
+.imgContainer img{
+    width: 100%;
+}
+.formDiv{
+    width: 40%;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.inputDiv{
+       
+}
+
+
+.submitBtn{
+    margin: 10px 0px;
+}

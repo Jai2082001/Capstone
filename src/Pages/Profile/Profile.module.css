@@ -1,0 +1,24 @@
+.formBar{
+    margin: 30px 20px;
+}
+.caseDiv{
+    background-color: white;
+    max-width: 500px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    background-color: lightgrey;
+    padding: 10px;
+}
+.caseDiv img{
+    max-width: 200px;
+    margin: 0px 10px;
+    border-radius: 7px;
+}
+.centerDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

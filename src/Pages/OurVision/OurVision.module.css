@@ -1,0 +1,18 @@
+.ourVisionParent{
+    text-align: center;
+    padding: 20px
+}
+.imageDiv{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imageDiv img{
+    border-radius: 10px;
+    width: 40%;
+    margin: 20px;
+}
+.imageDiv div{
+    font-size: 17px;
+}

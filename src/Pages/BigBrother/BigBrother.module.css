@@ -1,0 +1,9 @@
+.bigDiv h3{
+    margin: 40px 0px;
+}
+.bigDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

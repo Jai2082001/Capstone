@@ -1,0 +1,47 @@
+.parentDiv{
+    background-color: grey;
+}
+.timelineDiv{
+    margin-top: 400px;
+}
+.ideaHeading{
+    color: white;
+    text-align: center;
+    margin-bottom:0;
+    font-size: 50px;
+}
+.backgroundVision{
+    padding: 50px;
+    text-align: center;
+    background-color: white !important;
+}
+.visionDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.backgroundVision h1{
+    margin: 50px 0px;
+}
+.imgDiv{
+    max-width: 30%;
+}
+
+.imgDiv img{
+    width: 100%;
+    position: relative;
+}
+
+.decDiv{
+    border: 1px solid grey;
+    height: 100%;
+    width: 30%;
+    z-index: 20;
+    position: absolute;
+    top: 10px;
+    margin-left: 10px;
+}
+.contentDiv{
+    max-width: 500px;
+}

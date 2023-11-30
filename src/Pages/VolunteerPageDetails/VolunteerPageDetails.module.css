@@ -1,0 +1,30 @@
+.parentDiv {
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgDiv{
+    max-width: 600px;
+}
+
+.imgDiv img{
+    width: 100%;
+}
+
+.parentDiv div{
+    margin: 20px;
+}
+.enrollDiv{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;    
+}
+.eventDesc{
+    padding: 0px 20px;
+    margin: 20px 10px;
+}
+.enrollDiv div{
+    margin: 10px 0px;
+}

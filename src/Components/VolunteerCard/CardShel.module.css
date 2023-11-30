@@ -1,0 +1,16 @@
+.ParentDiv{
+    padding: 20px;
+    transition: 0.2s all ease-in-out;
+    max-width: 700px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 7px;
+}
+.ParentDiv img{
+    max-height: 400px;
+    cursor: pointer;
+}
+.ParentDiv:hover{
+    padding: 25px;
+    box-shadow: 3px 3px 8px -4px #000000;
+}
